@@ -1,8 +1,7 @@
 .theia
 .*
-
-test.html
-
+.learn
+.github
 
 app.tar.gz
 config.json

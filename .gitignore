@@ -1,6 +1,7 @@
 .theia
-# this lets git know to not upload the .learn folder
-.learn
+.*
+
+test.html
 
 
 app.tar.gz

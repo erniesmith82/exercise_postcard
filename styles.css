@@ -1,0 +1,49 @@
+body {
+	background: black;
+	font-family: Apple Chancery, cursive;
+	font-size: 11pt;
+}
+
+.postcard {
+	background: white;
+	width: 450px;
+	height: 330px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+}
+.postcard-header h1 {
+	width: 100%;
+	margin: 5px;
+	margin-top: 18px;
+}
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+}
+.postcard-body {
+	display: flex;
+}
+input {
+	border: none;
+	border-bottom: 1px grey solid;
+	font-family: Apple Chancery, cursive;
+	font-size: 11.5pt;
+}
+button {
+	background-color: lightgray;
+	padding: 5px 10px;
+	font-family: Apple Chancery, cursive;
+}
+.postcard-footer {
+	text-align: center;
+}
+.body-left p:first-child {
+	margin-top: 0;
+}
+.body-left,
+.body-right {
+	padding: 10px;
+}

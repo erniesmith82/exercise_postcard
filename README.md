@@ -1,2 +1,3 @@
+# Check out the postcard mock up
 
-First class project by @erniesmith82
+## https://erniesmith82.github.io/exercise_postcard/
